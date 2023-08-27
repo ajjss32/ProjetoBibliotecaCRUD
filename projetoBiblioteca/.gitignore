@@ -3,7 +3,11 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-
+### MVN ###
+.mvn
+mvnw
+mvnw.cmd
+data
 ### STS ###
 .apt_generated
 .classpath

@@ -1,4 +1,4 @@
-# Aplicação Spring Boot com PostgreSQL usando Docker 🚀
+# Aplicação Spring Boot com PostgreSQL usando Docker 🚀🐋
 
 Esta aplicação é um exemplo de um sistema simples para gerenciar livros, construído com o Spring Boot, utilizando o banco de dados PostgreSQL. A aplicação é separada do banco de dados, e ambos são executados como containers Docker.
 
@@ -8,7 +8,7 @@ Esta aplicação é um exemplo de um sistema simples para gerenciar livros, cons
 - **PostgreSQL**: O banco de dados PostgreSQL é utilizado para armazenar os dados dos livros.
 - **Docker**: O Docker é utilizado para criar e executar containers isolados para a aplicação e o banco de dados.
 
-## Configurações
+## Configurações ⚙️
 
 ### ModelMapper Configuration
 
